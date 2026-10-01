@@ -1,0 +1,7 @@
+.footer {
+  font: var(--h3);
+  color: var(--main-t);
+  background-color: var(--sec-c);
+  padding: var(--size-s);
+  text-align: center;
+}
